@@ -1,9 +1,6 @@
 # gottfried_fortress
 Team Fortress 2 except everyone is voiced by Gilbert Gottfried
 
-Sound samples (embedded as a video-less mp4 since Github doesn't easily allow for mp3 embeddings)
-[Sound samples](/sample/sample.mp3)
-
 [![Gameplay Video](https://img.youtube.com/vi/uYDtpqYJSgU/0.jpg)](https://www.youtube.com/watch?v=uYDtpqYJSgU?raw=1)
 
 
