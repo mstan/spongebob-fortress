@@ -1,5 +1,5 @@
-# gottfried_fortress
-Team Fortress 2 except everyone is voiced by Gilbert Gottfried
+# spongebob-fortress
+Team Fortress 2 except everyone is voiced by Spongebob
 
 [![Gameplay Video](https://img.youtube.com/vi/uYDtpqYJSgU/0.jpg)](https://www.youtube.com/watch?v=uYDtpqYJSgU?raw=1)
 
